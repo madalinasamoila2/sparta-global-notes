@@ -1,0 +1,57 @@
+name,id,base_happiness,capture_rate,color,egg_group,evolves_from
+florges,671,70,45,white,['fairy'],floette
+chespin,650,70,45,green,['ground'],None
+quilladin,651,70,45,green,['ground'],chespin
+fennekin,653,70,45,red,['ground'],None
+braixen,654,70,45,red,['ground'],fennekin
+delphox,655,70,45,red,['ground'],braixen
+froakie,656,70,45,blue,['water1'],None
+frogadier,657,70,45,blue,['water1'],froakie
+greninja,658,70,45,blue,['water1'],frogadier
+bunnelby,659,50,255,brown,['ground'],None
+diggersby,660,50,127,brown,['ground'],bunnelby
+fletchinder,662,50,120,red,['flying'],fletchling
+talonflame,663,50,45,red,['flying'],fletchinder
+scatterbug,664,70,255,black,['bug'],None
+spewpa,665,70,120,black,['bug'],scatterbug
+vivillon,666,70,45,white,['bug'],spewpa
+litleo,667,70,220,brown,['ground'],None
+pyroar,668,70,65,brown,['ground'],litleo
+floette,670,70,120,white,['fairy'],flabebe
+florges,671,70,45,white,['fairy'],floette
+skiddo,672,70,200,brown,['ground'],None
+gogoat,673,70,45,brown,['ground'],skiddo
+pancham,674,50,220,white,"['ground', 'humanshape']",None
+pangoro,675,50,65,white,"['ground', 'humanshape']",pancham
+furfrou,676,70,160,white,['ground'],None
+espurr,677,50,190,gray,['ground'],None
+meowstic,678,50,75,blue,['ground'],espurr
+honedge,679,50,180,brown,['mineral'],None
+doublade,680,50,90,brown,['mineral'],honedge
+aegislash,681,50,45,brown,['mineral'],doublade
+spritzee,682,50,200,pink,['fairy'],None
+aromatisse,683,50,140,pink,['fairy'],spritzee
+swirlix,684,50,200,white,['fairy'],None
+slurpuff,685,50,140,white,['fairy'],swirlix
+inkay,686,50,190,blue,"['water1', 'water2']",None
+malamar,687,50,80,blue,"['water1', 'water2']",inkay
+barboach,339,50,190,gray,['water2'],None
+whiscash,340,50,75,blue,['water2'],barboach
+corphish,341,50,205,red,"['water1', 'water3']",None
+crawdaunt,342,50,155,red,"['water1', 'water3']",corphish
+skrelp,690,50,225,brown,"['water1', 'dragon']",None
+dragalge,691,50,55,brown,"['water1', 'dragon']",skrelp
+clauncher,692,50,225,blue,"['water1', 'water3']",None
+clawitzer,693,50,55,blue,"['water1', 'water3']",clauncher
+helioptile,694,50,190,yellow,"['monster', 'dragon']",None
+heliolisk,695,50,75,yellow,"['monster', 'dragon']",helioptile
+goomy,704,35,45,purple,['dragon'],None
+sliggoo,705,35,45,purple,['dragon'],goomy
+goodra,706,35,45,purple,['dragon'],sliggoo
+noibat,714,50,190,purple,"['flying', 'dragon']",None
+noivern,715,50,45,purple,"['flying', 'dragon']",noibat
+xerneas,716,0,45,blue,['no-eggs'],None
+yveltal,717,0,45,red,['no-eggs'],None
+diancie,719,50,3,pink,['no-eggs'],None
+hoopa,720,100,3,purple,['no-eggs'],None
+volcanion,721,100,3,brown,['no-eggs'],None
